@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinanceTradeParser", "BinanceTradeParser\BinanceTradeParser.csproj", "{61F395AD-307A-4FF4-AA7E-0E8493C7D69B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{AC490C4A-3E0F-4C19-A727-9156D3D6ABC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{61F395AD-307A-4FF4-AA7E-0E8493C7D69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61F395AD-307A-4FF4-AA7E-0E8493C7D69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61F395AD-307A-4FF4-AA7E-0E8493C7D69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC490C4A-3E0F-4C19-A727-9156D3D6ABC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC490C4A-3E0F-4C19-A727-9156D3D6ABC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC490C4A-3E0F-4C19-A727-9156D3D6ABC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC490C4A-3E0F-4C19-A727-9156D3D6ABC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
